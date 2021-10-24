@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Contract>
+    <ID>1701</ID>
+    <Client>Гульмамедов Нариман Вахитович</Client>
+    <PhoneNumber>89217504727</PhoneNumber>
+    <Email>WhatEverGul@gmail.com</Email>
+  </Contract>
+  <Contract>
+    <ID>1818</ID>
+    <Client>Жангурова Анастасия Андреевна</Client>
+    <PhoneNumber>89217636017</PhoneNumber>
+    <Email>zangurenok@gmail.com</Email>
+  </Contract>
+</NewDataSet>

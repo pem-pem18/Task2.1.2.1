@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+  <Employee Name="Жангурова А. А.">
+    <Email>zangurenok@gmail.com</Email>
+    <Login>login</Login>
+    <Password>password</Password>
+    <Position>Администратор</Position>
+  </Employee>
+  <Employee Name="Гульмамедова К. В.">
+    <Email>email@rrr.rr</Email>
+    <Login>login</Login>
+    <Password>password</Password>
+    <Position>Юрист</Position>
+  </Employee>
+</NewDataSet>

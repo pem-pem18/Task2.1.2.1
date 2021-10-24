@@ -1,0 +1,14 @@
+C:\Users\Пользователь\source\repos\Task2.1\Task2.1\obj\Debug\Task2.1.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Task2.1\Task2.1\obj\Debug\Task2._1.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Task2.1\Task2.1\obj\Debug\Task2.1.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Task2.1\Task2.1\obj\Debug\Task2.1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Task2.1\Task2.1\bin\Debug\Task2.1.exe.config
+C:\Users\Пользователь\source\repos\Task2.1\Task2.1\bin\Debug\Task2.1.exe
+C:\Users\Пользователь\source\repos\Task2.1\Task2.1\bin\Debug\Task2.1.pdb
+C:\Users\Пользователь\source\repos\Task2.1\Task2.1\obj\Debug\Task2.1.exe
+C:\Users\Пользователь\source\repos\Task2.1\Task2.1\obj\Debug\Task2.1.pdb
+C:\Users\Пользователь\source\repos\Task2.1\Task2.1\obj\Debug\Task2._1.MainMenu.resources
+C:\Users\Пользователь\source\repos\Task2.1\Task2.1\obj\Debug\Task2._1.AccessLevelMenu.resources
+C:\Users\Пользователь\source\repos\Task2.1\Task2.1\obj\Debug\Task2._1.EmployeeMenuModerator.resources
+C:\Users\Пользователь\source\repos\Task2.1\Task2.1\obj\Debug\Task2._1.EmployeeMenuAdministrator.resources
+C:\Users\Пользователь\source\repos\Task2.1\Task2.1\obj\Debug\Task2._1.NewBaseNaming.resources
